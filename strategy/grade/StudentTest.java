@@ -1,4 +1,4 @@
-package strategy_1;
+package strategy.grade;
 
 public class StudentTest {
     public static void main(String[] args) {

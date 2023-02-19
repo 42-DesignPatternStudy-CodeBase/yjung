@@ -1,4 +1,4 @@
-package strategy_1;
+package strategy.grade;
 
 public class BasicStrategy implements Strategy {
     @Override

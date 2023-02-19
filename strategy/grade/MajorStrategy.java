@@ -1,4 +1,4 @@
-package strategy_1;
+package strategy.grade;
 
 public class MajorStrategy implements Strategy {
     @Override

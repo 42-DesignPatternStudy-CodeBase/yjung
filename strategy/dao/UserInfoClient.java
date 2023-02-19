@@ -1,4 +1,4 @@
-package strategy_2;
+package strategy.dao;
 
 import java.io.File;
 import java.io.FileNotFoundException;

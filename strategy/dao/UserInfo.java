@@ -1,4 +1,4 @@
-package strategy_2;
+package strategy.dao;
 
 public class UserInfo {
     private String userId;

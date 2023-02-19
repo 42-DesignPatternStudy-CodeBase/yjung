@@ -1,4 +1,4 @@
-package strategy_1;
+package strategy.grade;
 import java.util.ArrayList;
 
 public class Student {
