@@ -1,6 +1,6 @@
 package adapter;
 
-public class Banner {
+public class Banner { // Adaptee
     private String string;
     public Banner(String string) {
         this.string = string;

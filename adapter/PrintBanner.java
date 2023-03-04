@@ -1,6 +1,6 @@
 package adapter;
 
-public class PrintBanner extends Banner implements Print {
+public class PrintBanner extends Banner implements Print { // Adapter
     public PrintBanner(String string) {
         super(string);
     }
